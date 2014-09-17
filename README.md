@@ -1,4 +1,6 @@
-PractIni-SYTW
+Práctica inicial de Sistemas y Tecnologías Web
 =============
 
-Práctica inicial de Sistemas y Tecnologías Web
+**Sem Ramos Herrera**
+
+
